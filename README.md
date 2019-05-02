@@ -1,6 +1,6 @@
 ### Code Challenge for Bluecode
 
-Most od the custom code is in `src/Components`
+Most of the custom code is in `src/Components`
 
 The checksum code is in `src/utils/checksum.js` & `src/utils/checksum.test.js`
 
