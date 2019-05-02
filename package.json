@@ -2,6 +2,7 @@
   "name": "bluecode",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://conor909.github.io/bluecode",
   "dependencies": {
     "react": "^16.8.6",
     "react-color": "^2.17.3",
