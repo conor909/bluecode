@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bluecode/static/css/main.a98f2f72.chunk.css",
+    "main.js": "/bluecode/static/js/main.86cf5caf.chunk.js",
+    "main.js.map": "/bluecode/static/js/main.86cf5caf.chunk.js.map",
+    "runtime~main.js": "/bluecode/static/js/runtime~main.f5b65a31.js",
+    "runtime~main.js.map": "/bluecode/static/js/runtime~main.f5b65a31.js.map",
+    "static/js/2.de944021.chunk.js": "/bluecode/static/js/2.de944021.chunk.js",
+    "static/js/2.de944021.chunk.js.map": "/bluecode/static/js/2.de944021.chunk.js.map",
+    "index.html": "/bluecode/index.html",
+    "precache-manifest.3b7345baf34c1fb1a0157353d3e1670f.js": "/bluecode/precache-manifest.3b7345baf34c1fb1a0157353d3e1670f.js",
+    "service-worker.js": "/bluecode/service-worker.js",
+    "static/css/main.a98f2f72.chunk.css.map": "/bluecode/static/css/main.a98f2f72.chunk.css.map",
+    "static/media/logo.svg": "/bluecode/static/media/logo.1d66cf42.svg"
+  }
+}
