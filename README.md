@@ -1,5 +1,7 @@
 ### Code Challenge for Bluecode
 
+View the hosted app at [here](https://conor909.github.io/bluecode/)
+
 Most of the custom code is in `src/Pages/Home` & `src/Components`
 
 The checksum code is in `src/utils/checksum.js` & `src/utils/checksum.test.js`
