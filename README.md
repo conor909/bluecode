@@ -1,6 +1,6 @@
 ### Code Challenge for Bluecode
 
-View the hosted app at [here](https://conor909.github.io/bluecode/)
+View the hosted app at [conor909.github.io/bluecode](https://conor909.github.io/bluecode/)
 
 Most of the custom code is in `src/Pages/Home` & `src/Components`
 
