@@ -1,4 +1,4 @@
-View the hosted app at [conor909.github.io/bluecode](https://conor909.github.io/bluecode/)
+To view the app, visit [conor909.github.io/bluecode](https://conor909.github.io/bluecode/)
 
 ### The challenge
 
