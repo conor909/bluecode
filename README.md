@@ -13,7 +13,7 @@ To run the tests `npm test` or `yarn test`
 
 ### The challenge
 
-# The task is to create a barcode editor for an imaginary format with following features
+#### The task is to create a barcode editor for an imaginary format with following features
 • Available as a standalone single page application with no server calls
 • Should run on latest Chrome with no plugins installed
 • Allows input of digits up to maximum of 19
@@ -27,14 +27,14 @@ time
 Note: The checksum algorithm should be implemented from scratch without use of a 3rd party
 library that might already provide this functionality.
 
-# Checksum calculation
+#### Checksum calculation
 1. Add up the digits in odd positions and multiply by 3
 2. Add up the digits in even positions
 3. Add up the results of 1 and 2
 4. Divide by 10 and take the remainder.
 5. If the remainder is 0 final result is 0 otherwise subtract it from 10 for final result
 
-# Example
+#### Example
 5 4 8 9 8 5 0 3 5 4
 1. 5 + 8 + 8 + 0 + 5 = 26 * 3 = 78
 2. 4 + 9 + 5 + 3 + 4 = 25
@@ -42,7 +42,7 @@ library that might already provide this functionality.
 4. 103 / 10 = 10.3 = 3
 5. 10 - 3 = 7
 
-# Barcode layout
+#### Barcode layout
 The barcode should represent each digit as a single bar. The bars grow in height and width as the
 numbers increase. Guidelines for the bars as follows
 
@@ -58,9 +58,8 @@ numbers increase. Guidelines for the bars as follows
 9. Same thickness as 8 but tallen than 8
 
 The differences in width and height should be significant and clear
-One potential solution for digits 0 to 9 could look like this
 
-#Barcode style
+#### Barcode style
 You are free to design the interface for editing & the style of the barcode but it should have these
 characteristics
 • All the bars should use the primary colour prominently except for the checksum digit
