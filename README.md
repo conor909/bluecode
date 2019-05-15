@@ -1,16 +1,3 @@
-### Code Challenge for Bluecode
-
-View the hosted app at [conor909.github.io/bluecode](https://conor909.github.io/bluecode/)
-
-Main code is in `src/Pages/Home` & `src/Components`
-
-The checksum code is in `src/utils/checksum.js` & `src/utils/checksum.test.js`
-
-To run the app `npm start` or `yarn start`
-
-To run the tests `npm test` or `yarn test`
-
-
 ### The challenge
 
 #### The task is to create a barcode editor for an imaginary format with following features
@@ -65,3 +52,17 @@ characteristics
 • All the bars should use the primary colour prominently except for the checksum digit
 • The checksum digit at the end should mainly use the secondary colour and be distinguishable
 • It is not necessary to show the digits on the bars but you are free to do so
+
+--
+
+### Code Challenge for Bluecode
+
+View the hosted app at [conor909.github.io/bluecode](https://conor909.github.io/bluecode/)
+
+Main code is in `src/Pages/Home` & `src/Components`
+
+The checksum code is in `src/utils/checksum.js` & `src/utils/checksum.test.js`
+
+To run the app `npm start` or `yarn start`
+
+To run the tests `npm test` or `yarn test`
