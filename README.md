@@ -3,16 +3,17 @@ To view the app, visit [conor909.github.io/bluecode](https://conor909.github.io/
 ### The challenge
 
 #### The task is to create a barcode editor for an imaginary format with following features
-• Available as a standalone single page application with no server calls
-• Should run on latest Chrome with no plugins installed
-• Allows input of digits up to maximum of 19
-• Calculates a checksum digit for given digits
-• Displays the barcode with given digits and the checksum digit
-• Scales fluidly to different sizes
-• Allows changing of primary and secondary colour
-• Adding and removing digits or changing colours should change the barcode displayed in real
+* Available as a standalone single page application with no server calls
+* Should run on latest Chrome with no plugins installed
+* Allows input of digits up to maximum of 19
+* Calculates a checksum digit for given digits
+* Displays the barcode with given digits and the checksum digit
+* Scales fluidly to different sizes
+* Allows changing of primary and secondary colour
+* Adding and removing digits or changing colours should change the barcode displayed in real
 time
-• Contains appropriate automated tests
+* Contains appropriate automated tests
+
 Note: The checksum algorithm should be implemented from scratch without use of a 3rd party
 library that might already provide this functionality.
 
@@ -51,9 +52,9 @@ The differences in width and height should be significant and clear
 #### Barcode style
 You are free to design the interface for editing & the style of the barcode but it should have these
 characteristics
-• All the bars should use the primary colour prominently except for the checksum digit
-• The checksum digit at the end should mainly use the secondary colour and be distinguishable
-• It is not necessary to show the digits on the bars but you are free to do so
+* All the bars should use the primary colour prominently except for the checksum digit
+* The checksum digit at the end should mainly use the secondary colour and be distinguishable
+* It is not necessary to show the digits on the bars but you are free to do so
 
 --
 
