@@ -1,3 +1,5 @@
+View the hosted app at [conor909.github.io/bluecode](https://conor909.github.io/bluecode/)
+
 ### The challenge
 
 #### The task is to create a barcode editor for an imaginary format with following features
@@ -55,9 +57,7 @@ characteristics
 
 --
 
-### Code Challenge for Bluecode
-
-View the hosted app at [conor909.github.io/bluecode](https://conor909.github.io/bluecode/)
+### Dev notes:
 
 Main code is in `src/Pages/Home` & `src/Components`
 
